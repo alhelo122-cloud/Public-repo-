@@ -1,3 +1,3 @@
-# Public-repo- better Arabic for Ai
-A new Arabic language mini drama series that is focused on dialicts of 8 deferent arab countries with 8 deferent languages
-app is under work
+# Public-repo- better Arabic for AI
+A new Arabic language mini drama series that is focused on the dialects of 8 different Arab countries with 8 different languages
+The app is under work
